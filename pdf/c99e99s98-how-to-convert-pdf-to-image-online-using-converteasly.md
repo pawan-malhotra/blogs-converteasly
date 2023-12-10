@@ -1,8 +1,8 @@
 ---
-title: 'Sample Blog - How to convert pdf to image online using converteasly?'
-date: 'November 1, 2023'
-sub_heading: 'The best blogging website. visit converteasly.com/blogs'
-cover_image: 'https://firebasestorage.googleapis.com/v0/b/converteasly-a81f8.appspot.com/o/images%2Fimg3.jpg?alt=media&token=1e7dcafe-0096-4763-af06-50a8c858acc3'
+title: 'How to convert PDF to Image online using converteasly??'
+date: 'December 9, 2023'
+sub_heading: 'Simple steps to convert PDF to images online, at no-cost, no-registration, and no-installation needed.'
+cover_image: 'https://firebasestorage.googleapis.com/v0/b/converteasly-a81f8.appspot.com/o/images%2Fconvert-pdf-to-img.jpg?alt=media&token=af4ed395-9754-477b-bce3-da9887aeafcf'
 category: 'pdf'
 tool_name: 'Pdf To Image'
 tool_id: 102

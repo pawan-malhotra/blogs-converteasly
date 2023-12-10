@@ -1,12 +1,11 @@
 ---
 title: 'How to convert image to pdf online using converteasly?'
 date: 'December 10, 2023'
-sub_heading: 'A free tool to convert one or multiple images to PDF online, at no-cost, no-registration,
-and no-installation needed.'
-cover_image: ''
-category: 'pdf'
+sub_heading: 'A free tool to convert one or multiple images to PDF online, at no-cost, no-registration, and no-installation needed.'
+cover_image: 'https://firebasestorage.googleapis.com/v0/b/converteasly-a81f8.appspot.com/o/images%2Fconvert-img-to-pdf.jpg?alt=media&token=b95645a1-a71a-4b9d-9388-047948e015be'
+category: 'image'
 tool_name: 'Image To PDF'
-tool_id: '101'
+tool_id: 101
 ---
 
 A free tool to convert one or multiple images to PDF online, at no-cost, no-registration,
