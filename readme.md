@@ -2,7 +2,7 @@
 
 | Current Index | Next Index |
 | ------------- | ---------- |
-| c99e99s80 | c99e99s79 |
+| c99e99s74 | c99e99s73 |
 
 
 ## Blog Live Status 🚀
