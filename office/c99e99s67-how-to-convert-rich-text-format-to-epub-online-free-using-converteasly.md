@@ -2,7 +2,7 @@
 title: 'How to convert Rich Text Format (.rtf) file to Epub online free using converteasly ?'
 date: 'December 31, 2023'
 sub_heading: 'Educational institutions and educators can convert RTF-based textbooks, study guides, and educational resources into EPUB format'
-cover_image: ''
+cover_image: 'https://firebasestorage.googleapis.com/v0/b/converteasly-a81f8.appspot.com/o/images%2Fc99e99s67-rtf-to-epub.jpg?alt=media&token=2af43b82-e05a-4c00-bcc8-083baa0f1c47'
 category: 'office'
 tool_name: 'Rich Text Format To Epub'
 tool_id: 122
@@ -18,7 +18,7 @@ Educational institutions and educators can convert RTF-based textbooks, study gu
 
 YAY! 🥳 
 
-<button url='https://www.converteasly.com/uploads/rich-text-format-to-epub/122'>Rich Text Format To Epub</button>
+<a class="btn" href='https://www.converteasly.com/uploads/rich-text-format-to-epub/122'>Rich Text Format To Epub</a>
 
 ### UseCases Of Rich Text Format (.rtf) To Epub Convertor 🙇‍♀️
 

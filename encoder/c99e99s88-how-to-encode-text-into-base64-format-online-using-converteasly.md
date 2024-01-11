@@ -2,7 +2,7 @@
 title: 'How to encode text into base64 format online using converteasly?'
 date: 'December 11, 2023'
 sub_heading: 'In some cases, when passing text data as a parameter in a URL, Base64 encoding can be used to ensure that'
-cover_image: ''
+cover_image: 'https://firebasestorage.googleapis.com/v0/b/converteasly-a81f8.appspot.com/o/images%2Fc99e99s88-text-to-base64.jpg?alt=media&token=c726b4ee-9f35-4620-86b0-1397abfe6d79'
 category: 'encoder'
 tool_name: 'Text To Base64'
 tool_id: 116
@@ -18,7 +18,7 @@ In some cases, when passing text data as a parameter in a URL, Base64 encoding c
 
 YAY! 🥳 
 
-<button url='https://www.converteasly.com/uploads/base64-text-encoder/116'>Text To Base64</button>
+<a class="btn" href='https://www.converteasly.com/uploads/base64-text-encoder/116'>Text To Base64</a>
 
 ### UseCases Of Text To Base64 Encoder 🙇‍♀️
 

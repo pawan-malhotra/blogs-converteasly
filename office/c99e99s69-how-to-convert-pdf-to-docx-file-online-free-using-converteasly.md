@@ -1,8 +1,8 @@
 ---
 title: 'How to convert Pdf To Docx file online free using converteasly ?'
 date: 'December 31, 2023'
-sub_heading: 'If you've received a document in PDF format but need to continue working on it, converting it to DOCX allows you to seamlessly resume'
-cover_image: ''
+sub_heading: 'If you have received a document in PDF format but need to continue working on it converting it to DOCX allows you to seamlessly resume'
+cover_image: 'https://firebasestorage.googleapis.com/v0/b/converteasly-a81f8.appspot.com/o/images%2Fc99e99s69-pdf-to-docx.jpg?alt=media&token=0c15a7ce-3f98-4bd5-8af5-d15655be5493'
 category: 'office'
 tool_name: 'Pdf To Docx'
 tool_id: 105
@@ -18,7 +18,7 @@ If you've received a document in PDF format but need to continue working on it, 
 
 YAY! 🥳 
 
-<button url='https://www.converteasly.com/uploads/pdf-to-docx/105'>Pdf To Docx</button>
+<a class="btn" href='https://www.converteasly.com/uploads/pdf-to-docx/105'>Pdf To Docx</a>
 
 ### UseCases Of Pdf To Docx Convertor 🙇‍♀️
 

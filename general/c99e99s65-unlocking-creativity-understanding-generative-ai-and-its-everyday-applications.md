@@ -2,7 +2,7 @@
 title: 'Unlocking Creativity: Understanding Generative AI and Its Everyday Applications.'
 date: 'January 1, 2024'
 sub_heading: 'Welcome to the world of Generative AI, where algorithms transform data into something entirely new, giving machines the ability to create, imagine, and innovate.'
-cover_image: ''
+cover_image: 'https://firebasestorage.googleapis.com/v0/b/converteasly-a81f8.appspot.com/o/images%2Fc99e99s65-understanding-generative-ai.jpg?alt=media&token=7de7b467-e0dc-498e-9f04-0d17bef7f25b'
 category: 'general'
 ---
 

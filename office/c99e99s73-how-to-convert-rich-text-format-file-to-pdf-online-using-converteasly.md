@@ -2,7 +2,7 @@
 title: 'How to convert Rich Text Format (.rtf) file to PDF online using converteasly ?'
 date: 'December 31, 2023'
 sub_heading: 'Legal professionals often convert legal documents, agreements, and contracts from RTF to PDF to maintain document integrity and'
-cover_image: ''
+cover_image: 'https://firebasestorage.googleapis.com/v0/b/converteasly-a81f8.appspot.com/o/images%2Fc99e99s73-rtf-to-pdf.jpg?alt=media&token=732b51fa-cf60-4874-b19b-423da1ca5434'
 category: 'office'
 tool_name: 'Rich Text Format To Pdf'
 tool_id: 123
@@ -18,7 +18,7 @@ Legal professionals often convert legal documents, agreements, and contracts fro
 
 YAY! 🥳 
 
-<button url='https://www.converteasly.com/uploads/rich-text-format-to-pdf/123'>Rich Text Format To PDF</button>
+<a class="btn" href='https://www.converteasly.com/uploads/rich-text-format-to-pdf/123'>Rich Text Format To PDF</a>
 
 ### UseCases Of Rich Text Format (.rtf) To PDF Convertor 🙇‍♀️
 

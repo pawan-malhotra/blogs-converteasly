@@ -1,8 +1,8 @@
 ---
 title: 'Simple and Free tool to merge multiple Docx file into single Docx online.'
 date: 'December 31, 2023'
-sub_heading: When preparing presentations, different team members might be responsible for various sections. A merge DOCX tool lets you bring together'
-cover_image: ''
+sub_heading: 'When preparing presentations, different team members might be responsible for various sections. A merge DOCX tool lets you bring together'
+cover_image: 'https://firebasestorage.googleapis.com/v0/b/converteasly-a81f8.appspot.com/o/images%2Fc99e99s68-merge-docx.jpg?alt=media&token=9418c096-54ad-4d76-8bd5-1c64148b2084'
 category: 'office'
 tool_name: 'Merge Docx'
 tool_id: 119
@@ -18,7 +18,7 @@ When preparing presentations, different team members might be responsible for va
 
 YAY! 🥳 
 
-<button url='https://www.converteasly.com/uploads/merge-docx/119'>Click To Merge Docx</button>
+<a class="btn" href='https://www.converteasly.com/uploads/merge-docx/119'>Click To Merge Docx</a>
 
 ### UseCases Of Merge Docx Convertor 🙇‍♀️
 

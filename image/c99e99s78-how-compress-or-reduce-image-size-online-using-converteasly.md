@@ -2,7 +2,7 @@
 title: 'How to compress or reduce image size online using converteasly ?'
 date: 'December 27, 2023'
 sub_heading: 'Compressing images is crucial for optimizing website performance. Large image file sizes can significantly impact page load times, leading to slower website speeds'
-cover_image: ''
+cover_image: 'https://firebasestorage.googleapis.com/v0/b/converteasly-a81f8.appspot.com/o/images%2Fc99e99s78-compress-image.jpg?alt=media&token=b4f5d39a-6541-4f9a-8e66-8b94e71594a0'
 category: 'image'
 tool_name: 'Compress Image Size'
 tool_id: 113
@@ -25,7 +25,7 @@ You can also click on the Add More button to add as many as images.
 3. Click On Generate Button To Reduce Image Size As Per Given Quality.
 4. Click on the download icon or link to download zip file contains Compressed Image files or scan the given QR Code to save the zip file to your mobile or any other devices.
 
-<button url='https://www.converteasly.com/uploads/compress-image-size/113'>Reduce Image Size</button>
+<a class="btn" href='https://www.converteasly.com/uploads/compress-image-size/113'>Reduce Image Size</a>
 
 
 ### UseCases Of Compress Image Tool 🙇‍♀️

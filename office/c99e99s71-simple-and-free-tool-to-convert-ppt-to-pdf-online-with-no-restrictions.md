@@ -2,7 +2,7 @@
 title: 'Simple and Free tool to convert PPT file to PDF online with no restrictions.'
 date: 'December 31, 2023'
 sub_heading: 'When sharing slides with others who may not have PowerPoint or when you want to ensure that the content remains as intended'
-cover_image: ''
+cover_image: 'https://firebasestorage.googleapis.com/v0/b/converteasly-a81f8.appspot.com/o/images%2Fc99e99s71-ppt-to-pdf.jpg?alt=media&token=87f104f0-44eb-48fc-9187-ba039d7ffcc8'
 category: 'office'
 tool_name: 'PPT To Pdf'
 tool_id: 125
@@ -18,7 +18,7 @@ When sharing slides with others who may not have PowerPoint or when you want to 
 
 YAY! 🥳 
 
-<button url='https://www.converteasly.com/uploads/ppt-to-pdf/125'>Click To Convert PPT To PDF</button>
+<a class="btn" href='https://www.converteasly.com/uploads/ppt-to-pdf/125'>Click To Convert PPT To PDF</a>
 
 ### UseCases Of PPT (.ppt/.pptx) To PDF Convertor 🙇‍♀️
 

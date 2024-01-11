@@ -2,7 +2,7 @@
 title: 'How to protect your PDF file with password online ?'
 date: 'December 16, 2023'
 sub_heading: 'When sharing sensitive or confidential documents, protecting the PDF ensures that only intended recipients can access the content.'
-cover_image: ''
+cover_image: 'https://firebasestorage.googleapis.com/v0/b/converteasly-a81f8.appspot.com/o/images%2Fc99e99s85-protect-pdf.jpg?alt=media&token=659adb29-350d-41a0-92df-7a839b6993cf'
 category: 'pdf'
 tool_name: 'Protect PDF'
 tool_id: 108
@@ -17,7 +17,7 @@ When sharing sensitive or confidential documents, protecting the PDF ensures tha
 3. Click on generate button to generate Password Protected PDF.
 4. Click on the download icon or link to download your Protected PDF file or scan the given QR Code to save the converted file to your mobile or any other devices.
 
-<button url='https://www.converteasly.com/uploads/protect-pdf/108'>Protect PDF</button>
+<a class="btn" href='https://www.converteasly.com/uploads/protect-pdf/108'>Protect PDF</a>
 
 ### UseCases Of Protect PDF 🙇‍♀️
 

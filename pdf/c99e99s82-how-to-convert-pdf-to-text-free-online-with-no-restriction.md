@@ -2,7 +2,7 @@
 title: 'How to convert PDF to Text free online with no restriction ?'
 date: 'December 16, 2023'
 sub_heading: 'Converting PDF to text makes it easier to search for specific words, phrases, or keywords within the document. Text search functionality allows you to quickly locate relevant information'
-cover_image: ''
+cover_image: 'https://firebasestorage.googleapis.com/v0/b/converteasly-a81f8.appspot.com/o/images%2Fc99e99s82-pdf-to-text.jpg?alt=media&token=70651a47-4b02-4505-97b0-29444179ac78'
 category: 'pdf'
 tool_name: 'PDF To Text'
 tool_id: 103
@@ -16,7 +16,7 @@ Converting PDF to text makes it easier to search for specific words, phrases, or
 2. Click on generate button to extract text from PDF file.
 3. Click on the download icon or link to download your Text file or scan the given QR Code to save the converted file to your mobile or any other devices.
 
-<button url='https://www.converteasly.com/uploads/pdf-to-text/103'>Convert PDF To Text</button>
+<a class="btn" href='https://www.converteasly.com/uploads/pdf-to-text/103'>Convert PDF To Text</a>
 
 ### UseCases Of PDF To Text Conversion 🙇‍♀️
 

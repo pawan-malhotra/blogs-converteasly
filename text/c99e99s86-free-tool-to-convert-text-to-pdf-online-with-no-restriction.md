@@ -3,7 +3,7 @@ title: 'Free tool to convert text to pdf online with no restriction'
 date: 'December 12, 2023'
 sub_heading: 'A free tool to convert one or multiple text files to PDF online, at no-cost, no-registration,
 and no-installation needed.'
-cover_image: ''
+cover_image: 'https://firebasestorage.googleapis.com/v0/b/converteasly-a81f8.appspot.com/o/images%2Fc99e99s86-text-to-pdf.jpg?alt=media&token=500c62f2-6b36-45e0-81ac-9c60b43a9e24'
 category: 'text'
 tool_name: 'Text To PDF'
 tool_id: 104
@@ -18,7 +18,7 @@ and no-installation needed.
 2. Click on generate button to generate PDF.
 3. Click on the download icon or link to download your PDF file or scan the given QR Code to save the converted file to your mobile or any other devices.
 
-<button url='https://www.converteasly.com/uploads/text-to-pdf/104'>Convert Text To PDF</button>
+<a class="btn" href='https://www.converteasly.com/uploads/text-to-pdf/104'>Convert Text To PDF</a>
 
 ### UseCases Of Text To PDF Conversion 🙇‍♀️
 

@@ -2,7 +2,7 @@
 title: 'How to rotate image left and right online using converteasly ?'
 date: 'December 27, 2023'
 sub_heading: 'Images captured with digital cameras or smartphones may sometimes have incorrect orientations due to device positioning.'
-cover_image: ''
+cover_image: 'https://firebasestorage.googleapis.com/v0/b/converteasly-a81f8.appspot.com/o/images%2Fc99e99s77-rotate-image.jpg?alt=media&token=f6f98c62-8d8f-4f86-b10f-dcff4b60e99d'
 category: 'image'
 tool_name: 'Rotate Image'
 tool_id: 115
@@ -25,7 +25,7 @@ You can also click on the Add More button to add as many as images.
 3. Click On Generate Button To Rotate Image As Per Given Angle.
 4. Click on the download icon or link to download zip file contains Rotated Image files or scan the given QR Code to save the zip file to your mobile or any other devices.
 
-<button url='https://www.converteasly.com/uploads/rotate-image/115'>Click To Rotate Image</button>
+<a class="btn" href='https://www.converteasly.com/uploads/rotate-image/115'>Click To Rotate Image</a>
 
 
 ### UseCases Of Rotate Image Tool 🙇‍♀️

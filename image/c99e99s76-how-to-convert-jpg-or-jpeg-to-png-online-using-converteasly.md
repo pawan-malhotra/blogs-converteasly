@@ -2,7 +2,7 @@
 title: 'How to convert jpg or jpeg to png online using converteasly ?'
 date: 'December 27, 2023'
 sub_heading: 'Converting JPG to PNG can be useful when you want to compress an image while maintaining its quality.'
-cover_image: ''
+cover_image: 'https://firebasestorage.googleapis.com/v0/b/converteasly-a81f8.appspot.com/o/images%2Fc99e99s76-jpg-to-png.jpg?alt=media&token=8dd246d2-a67f-4ba5-a10c-8dd3de1224cb'
 category: 'image'
 tool_name: 'Jpg/Jpeg To Png'
 tool_id: 111
@@ -23,7 +23,7 @@ You can also click on the Add More button to add as many as images.
 2. Click On Generate Button To Convert JPG/JPEG Image To PNG.
 3. Click on the download icon or link to download zip file contains converted files or scan the given QR Code to save the zip file to your mobile or any other devices.
 
-<button url='https://www.converteasly.com/uploads/jpgjpeg-to-png/111'>Click To Convert Jpg/Jpeg To Png</button>
+<a class="btn" href='https://www.converteasly.com/uploads/jpgjpeg-to-png/111'>Click To Convert Jpg/Jpeg To Png</a>
 
 
 ### UseCases Of Jpg/Jpeg To Png Converter Tool 🙇‍♀️

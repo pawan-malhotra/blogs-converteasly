@@ -2,7 +2,7 @@
 title: 'How to convert PDF to Image online using converteasly?'
 date: 'December 11, 2023'
 sub_heading: 'Simple steps to convert PDF to images online, at no-cost, no-registration, and no-installation needed.'
-cover_image: 'https://firebasestorage.googleapis.com/v0/b/converteasly-a81f8.appspot.com/o/images%2Fconvert-pdf-to-img.jpg?alt=media&token=af4ed395-9754-477b-bce3-da9887aeafcf'
+cover_image: 'https://firebasestorage.googleapis.com/v0/b/converteasly-a81f8.appspot.com/o/images%2Fc99e99s98-pdf-to-img.jpg?alt=media&token=d067d298-6ddc-477b-bf7a-52eab55d71ec'
 category: 'pdf'
 tool_name: 'Pdf To Image'
 tool_id: 102
@@ -19,7 +19,7 @@ PDF files often contain embedded images, such as photographs, diagrams, or illus
 3. Click on the download icon or link to download your image file. 
 You can also scan the given QR Code to save the converted file to your mobile or any other devices.
 
-<button url='https://www.converteasly.com/uploads/pdf-to-images/102'>Convert PDF To Image</button>
+<a class="btn" href='https://www.converteasly.com/uploads/pdf-to-images/102'>Convert PDF To Image</a>
 
 ### UseCases Of PDF To Images Conversion 🙇‍♀️
 

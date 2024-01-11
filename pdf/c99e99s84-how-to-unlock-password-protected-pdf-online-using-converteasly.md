@@ -2,9 +2,9 @@
 title: 'How to unlock password protected PDF online using converteasly ?'
 date: 'December 16, 2023'
 sub_heading: 'Unlocking password-protected PDFs or removing restrictions can streamline document workflows, especially in business or administrative settings.'
-cover_image: ''
+cover_image: 'https://firebasestorage.googleapis.com/v0/b/converteasly-a81f8.appspot.com/o/images%2Fc99e99s84-unlock-pdf.jpg?alt=media&token=6be4b24d-67ed-443f-b593-d4a299996e00'
 category: 'pdf'
-tool_name: 'Protect PDF'
+tool_name: 'Unlock PDF'
 tool_id: 107
 ---
 
@@ -17,7 +17,7 @@ Unlocking password-protected PDFs or removing restrictions can streamline docume
 3. Click on generate button to unlock PDF.
 4. Click on the download icon or link to download your Unlocked PDF file or scan the given QR Code to save the converted file to your mobile or any other devices.
 
-<button url='https://www.converteasly.com/uploads/unlock-pdf/107'>Unlock PDF</button>
+<a class="btn" href='https://www.converteasly.com/uploads/unlock-pdf/107'>Unlock PDF</a>
 
 ### UseCases Of Unlock PDF 🙇‍♀️
 

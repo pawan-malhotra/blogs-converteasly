@@ -2,7 +2,7 @@
 title: 'How to change width and height of image online free ?'
 date: 'December 27, 2023'
 sub_heading: 'Resizing images is crucial for optimizing website performance and improving user experience.'
-cover_image: ''
+cover_image: 'https://firebasestorage.googleapis.com/v0/b/converteasly-a81f8.appspot.com/o/images%2Fc99e99s79-resize-image.jpg?alt=media&token=385c7dd0-64cb-46f6-aacb-b6c18f79516a'
 category: 'image'
 tool_name: 'Resize Image'
 tool_id: 114
@@ -25,7 +25,7 @@ You can also click on the Add More button to add as many as images.
 3. Click on generate button to resize Images.
 4. Click on the download icon or link to download zip file contains Resized Images or scan the given QR Code to save the converted file to your mobile or any other devices.
 
-<button url='https://www.converteasly.com/uploads/resize-image/114'>Resize Image Width And Height</button>
+<a class="btn" href='https://www.converteasly.com/uploads/resize-image/114'>Resize Image Width And Height</a>
 
 
 ### UseCases Of Resize Image Tool 🙇‍♀️

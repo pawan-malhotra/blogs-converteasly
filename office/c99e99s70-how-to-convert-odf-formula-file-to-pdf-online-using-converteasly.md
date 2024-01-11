@@ -2,7 +2,7 @@
 title: 'How to convert ODF Formula (.odf) file to PDF online using converteasly ?'
 date: 'December 31, 2023'
 sub_heading: 'Educators can convert course materials, lecture notes, and educational resources from ODF to PDF format for distribution to students'
-cover_image: ''
+cover_image: 'https://firebasestorage.googleapis.com/v0/b/converteasly-a81f8.appspot.com/o/images%2Fc99e99s70-odf-to-pdf.jpg?alt=media&token=7fb93f34-4ca6-421e-b024-343731d78803'
 category: 'office'
 tool_name: 'ODF Formula To Pdf'
 tool_id: 126
@@ -18,7 +18,7 @@ Educators can convert course materials, lecture notes, and educational resources
 
 YAY! 🥳 
 
-<button url='https://www.converteasly.com/uploads/odf-formula-to-pdf/126'>ODF Formula To PDF</button>
+<a class="btn" href='https://www.converteasly.com/uploads/odf-formula-to-pdf/126'>ODF Formula To PDF</a>
 
 ### UseCases Of ODF Formula (.odf) To PDF Convertor 🙇‍♀️
 

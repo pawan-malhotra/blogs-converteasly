@@ -2,7 +2,7 @@
 title: 'How to convert docx file to pdf online free ?'
 date: 'December 12, 2023'
 sub_heading: 'Presentations created in DOCX format might need to be shared with clients or partners. Converting them to'
-cover_image: ''
+cover_image: 'https://firebasestorage.googleapis.com/v0/b/converteasly-a81f8.appspot.com/o/images%2Fc99e99s87-docx-to-pdf.jpg?alt=media&token=7420c985-e40e-4752-a268-7be89681497e'
 category: 'office'
 tool_name: 'Docx To PDF'
 tool_id: 120
@@ -18,7 +18,7 @@ Presentations created in DOCX format might need to be shared with clients or par
 
 YAY! 🥳 
 
-<button url='https://www.converteasly.com/uploads/docx-to-pdf/120'>Docx To PDF</button>
+<a class="btn" href='https://www.converteasly.com/uploads/docx-to-pdf/120'>Docx To PDF</a>
 
 ### UseCases Of Docx To PDF Convertor 🙇‍♀️
 

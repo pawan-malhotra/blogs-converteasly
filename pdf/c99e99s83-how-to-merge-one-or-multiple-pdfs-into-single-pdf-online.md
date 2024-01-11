@@ -2,7 +2,7 @@
 title: 'How to Merge one or multiple PDFs into single PDf online ?'
 date: 'December 16, 2023'
 sub_heading: 'Merge PDF functionality is helpful for compiling e-books or digital publications. Authors or publishers can combine individual chapters'
-cover_image: ''
+cover_image: 'https://firebasestorage.googleapis.com/v0/b/converteasly-a81f8.appspot.com/o/images%2Fc99e99s83-merge-pdf.jpg?alt=media&token=e5d688c6-0362-40cf-a751-0898a1db29db'
 category: 'pdf'
 tool_name: 'Merge PDF'
 tool_id: 106
@@ -24,7 +24,7 @@ Merge PDF functionality is helpful for compiling e-books or digital publications
 
 **NOTE:** Click on the `Add More` button to add more PDF files.
 
-<button url='https://www.converteasly.com/uploads/merge-pdfs/106'>Click To Merge PDFs</button>
+<a class="btn" href='https://www.converteasly.com/uploads/merge-pdfs/106'>Click To Merge PDFs</a>
 
 ### UseCases Of Merge PDFs Tool 🙇‍♀️
 

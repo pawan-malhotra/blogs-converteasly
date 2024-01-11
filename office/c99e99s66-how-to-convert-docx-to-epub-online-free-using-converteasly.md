@@ -2,7 +2,7 @@
 title: 'How to convert Docx file to Epub online free using converteasly ?'
 date: 'December 31, 2023'
 sub_heading: 'Teachers, educators, and instructional designers can convert lesson plans, textbooks, educational guides, and study materials from DOCX to EPUB'
-cover_image: ''
+cover_image: 'https://firebasestorage.googleapis.com/v0/b/converteasly-a81f8.appspot.com/o/images%2Fc99e99s66-docx-to-ebup.jpg?alt=media&token=c6a32d85-e25b-4201-a322-c9916f1c0ba1'
 category: 'office'
 tool_name: 'Docx To Epub'
 tool_id: 121
@@ -18,7 +18,7 @@ Teachers, educators, and instructional designers can convert lesson plans, textb
 
 YAY! 🥳 
 
-<button url='https://www.converteasly.com/uploads/docx-to-epub/121'>Docx To Epub</button>
+<a class="btn" href='https://www.converteasly.com/uploads/docx-to-epub/121'>Docx To Epub</a>
 
 ### UseCases Of Docx To Epub Convertor 🙇‍♀️
 

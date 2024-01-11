@@ -2,7 +2,7 @@
 title: 'How to convert image to pdf online using converteasly?'
 date: 'December 10, 2023'
 sub_heading: 'A free tool to convert one or multiple images to PDF online, at no-cost, no-registration, and no-installation needed.'
-cover_image: 'https://firebasestorage.googleapis.com/v0/b/converteasly-a81f8.appspot.com/o/images%2Fconvert-img-to-pdf.jpg?alt=media&token=b95645a1-a71a-4b9d-9388-047948e015be'
+cover_image: 'https://firebasestorage.googleapis.com/v0/b/converteasly-a81f8.appspot.com/o/images%2Fc99e99s90-img-to-pdf.jpg?alt=media&token=ea9bd314-df16-41d9-9a8a-809fd22f2e86'
 category: 'image'
 tool_name: 'Image To PDF'
 tool_id: 101
@@ -31,7 +31,7 @@ You can also click on the Add More button to add as many as images.
 3. Click on the download icon or link to download your PDF file. 
 You can also scan the given QR Code to save the converted file to your mobile or any other devices.
 
-<button url='https://www.converteasly.com/uploads/images-to-pdf/101'>Convert Image To PDF</button>
+<a class="btn" href='https://www.converteasly.com/uploads/images-to-pdf/101'>Convert Image To PDF</a>
 
 
 ### UseCases Of Images To PDF Conversion 🙇‍♀️

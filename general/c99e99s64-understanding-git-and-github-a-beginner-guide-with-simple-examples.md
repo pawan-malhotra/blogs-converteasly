@@ -1,8 +1,8 @@
 ---
-title: 'Understanding Git and GitHub: A Beginner's Guide with Simple Examples'
+title: "Understanding Git and GitHub: A Beginner's Guide with Simple Examples"
 date: 'January 1, 2024'
-sub_heading: 'If you're diving into the world of coding, you've probably heard about Git and GitHub. They're like the dynamic duo of version control, helping developers'
-cover_image: ''
+sub_heading: "If you're diving into the world of coding, you've probably heard about Git and GitHub. They're like the dynamic duo of version control, helping developers"
+cover_image: 'https://firebasestorage.googleapis.com/v0/b/converteasly-a81f8.appspot.com/o/images%2Fc99e99s64-understanding-git-and-github.jpg?alt=media&token=4073a46e-7db6-4fbd-b96c-9230144ab46e'
 category: 'general'
 ---
 

@@ -2,7 +2,7 @@
 title: 'How to convert webp to jpg or jpeg or png online using converteasly ?'
 date: 'December 27, 2023'
 sub_heading: 'By converting WebP images to JPEG or PNG, you ensure compatibility with a broader range of devices, applications,'
-cover_image: ''
+cover_image: 'https://firebasestorage.googleapis.com/v0/b/converteasly-a81f8.appspot.com/o/images%2Fc99e99s74-webp-jpg-png.jpg?alt=media&token=25fbd4c6-2866-4bcd-a124-65f8f6d39cd9'
 category: 'image'
 tool_name: 'WebP To Jpg/Png'
 tool_id: 118
@@ -25,7 +25,7 @@ You can also click on the Add More button to add as many as images.
 3. Click On Generate Button To Convert WebP To Jpg/Png Image.
 4. Click on the download icon or link to download zip file contains converted files or scan the given QR Code to save the zip file to your mobile or any other devices.
 
-<button url='https://www.converteasly.com/uploads/webp-to-jpgpng/118'>Click To Convert WebP To Jpg/Png</button>
+<a class="btn" href='https://www.converteasly.com/uploads/webp-to-jpgpng/118'>Click To Convert WebP To Jpg/Png</a>
 
 
 ### UseCases Of WebP To Jpg/Png Converter Tool 🙇‍♀️

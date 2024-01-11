@@ -2,7 +2,7 @@
 title: 'Simple steps to decode Base64 to Text online using converteasly'
 date: 'December 11, 2023'
 sub_heading: 'Some APIs return data in Base64 encoded format, especially when dealing with binary data or non-textual content.'
-cover_image: ''
+cover_image: 'https://firebasestorage.googleapis.com/v0/b/converteasly-a81f8.appspot.com/o/images%2Fc99e99s89-base64-to-text.jpg?alt=media&token=58e7149e-503a-490d-95a3-d2a3794effed'
 category: 'decoder'
 tool_name: 'Base64 To Text'
 tool_id: 117
@@ -18,7 +18,7 @@ Some APIs return data in Base64 encoded format, especially when dealing with bin
 
 YAY! 🥳 
 
-<button url='https://www.converteasly.com/uploads/base64-text-decoder/117'>Base64 To Text</button>
+<a class="btn" href='https://www.converteasly.com/uploads/base64-text-decoder/117'>Base64 To Text</a>
 
 ### UseCases Of Base64 to Text Decoder 🙇‍♀️
 

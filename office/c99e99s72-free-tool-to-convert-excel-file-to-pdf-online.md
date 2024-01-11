@@ -2,7 +2,7 @@
 title: 'Free tool to convert Excel (.xls/.xlsx) file to PDF online.'
 date: 'December 31, 2023'
 sub_heading: 'When you want to share your spreadsheet data with others who may not have Excel or who need a format that cannot be easily edited, converting to PDF'
-cover_image: ''
+cover_image: 'https://firebasestorage.googleapis.com/v0/b/converteasly-a81f8.appspot.com/o/images%2Fc99e99s72-excel-to-pdf.jpg?alt=media&token=32e7670d-f866-4d01-a9c7-88863192d694'
 category: 'office'
 tool_name: 'Excel To Pdf'
 tool_id: 124
@@ -18,7 +18,7 @@ When you want to share your spreadsheet data with others who may not have Excel 
 
 YAY! 🥳 
 
-<button url='https://www.converteasly.com/uploads/excel-to-pdf/124'>Excel To PDF</button>
+<a class="btn" href='https://www.converteasly.com/uploads/excel-to-pdf/124'>Excel To PDF</a>
 
 ### UseCases Of Excel (.xls/.xlsx) To PDF Convertor 🙇‍♀️
 

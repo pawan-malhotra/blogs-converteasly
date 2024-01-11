@@ -2,7 +2,7 @@
 title: 'Simple steps to split single PDF into multiple PDF online using converteasly'
 date: 'December 16, 2023'
 sub_heading: 'you can extract a single chapter from a large book or isolate specific sections for reference or distribution.'
-cover_image: ''
+cover_image: 'https://firebasestorage.googleapis.com/v0/b/converteasly-a81f8.appspot.com/o/images%2Fc99e99s80-split-pdf.jpg?alt=media&token=c3fc4063-54fe-4784-90f4-08b28278e5c1'
 category: 'pdf'
 tool_name: 'Split Pdf'
 tool_id: 110
@@ -24,7 +24,7 @@ Splitting a PDF allows you to extract specific pages or sections of the document
 3. Click on generate button to split PDF file from given page number.
 4. Click on the download icon or link to download your Splited PDFs in a Zip file or scan the given QR Code to save the converted file to your mobile or any other devices.
 
-<button url='https://www.converteasly.com/uploads/split-pdf/110'>Click To Split Pdf</button>
+<a class="btn" href='https://www.converteasly.com/uploads/split-pdf/110'>Click To Split Pdf</a>
 
 ### UseCases Of Split Pdf Tool 🙇‍♀️
 
