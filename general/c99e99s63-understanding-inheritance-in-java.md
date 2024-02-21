@@ -97,8 +97,8 @@ Dog is barking
 
 The Inheritance in which class inherits methods and properties from a class that is already deriving from another class is called multilevel inheritance.
 
-<img src="./pics/multiple inheritance.png"
-     alt="single inheritance"
+<img src="./pics/multilevel inheritance.png"
+     alt="multilevel inheritance"
      style="float: left; margin-right: 10px;" />
 
 
@@ -154,7 +154,7 @@ welcome to animAL family
 In Hierarchical inheritance, more than one sub-class inherits the property of a single base class. There is one base class and multiple derived classes.
 
 <img src="./pics/Hierchial inheritance.png"
-     alt="single inheritance"
+     alt="single hierachial inheritance"
      style="float: left; margin-right: 10px;" />
 
 
@@ -211,7 +211,7 @@ Hello I am Truck
 It is a mix of two or more  types of inheritance.Since java doesn't support multiple inheritance with classes. It can be achieved through a combination of Multilevel Inheritance and Hierarchical Inheritance with classes, Hierarchical and Single Inheritance with classes.
 
 <img src="./pics/hybrid inheritance.png"
-     alt="single inheritance"
+     alt="hybrid inheritance"
      style="float: left; margin-right: 10px;" />
 
 ```powershell
