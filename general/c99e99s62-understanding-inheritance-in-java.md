@@ -1,8 +1,8 @@
 ---
-title: "understanding the concept of inheritance in java with application"
-date: '13 february, 2024'
+title: "Understanding the Concept of Inheritance in Java with application"
+date: 'February 13, 2024'
 sub_heading: "Let's dive into the concept of inheritance more deeply with a lots of examples"
-cover_image: ''
+cover_image: 'https://firebasestorage.googleapis.com/v0/b/converteasly-a81f8.appspot.com/o/images%2Fc99e99s62-understanding-inheritance-in-java.jpg?alt=media&token=a773cec9-a0ee-4275-8adf-65d69b121f42'
 category: 'general'
 ---
 
@@ -37,29 +37,29 @@ public class Main {
 }
 ```
 
-```java
+```powershell
 Output
 eating....
 Dog is barking
 ```
+
 **Note**:  Extend keywords are used to inherit the properties of the class.
 
 ## Types of Inheritance:
 
-#### 1.Single Inheritance
+1. Single Inheritance
 
-#### 2.Multilevel inheritance
+2. Multilevel inheritance
 
-#### 3.Hierarchical Inheritance
+3. Hierarchical Inheritance
 
-#### 4.Hybrid Inheritance 
+4. Hybrid Inheritance 
 
 ## Single Inheritance
 
 A class can inherit attributes and methods from only one parent class. In other words, a subclass can extend only one superclass.
 
-![single inheritence](./pics/single%20inheritance.png)
-
+![single inheritence](https://firebasestorage.googleapis.com/v0/b/converteasly-a81f8.appspot.com/o/images%2Fc99e99s62-single-inheritance.jpg?alt=media&token=78c9a323-d5c9-4195-bd6c-fa9acd436fbf)
 
 
 ### Example:
@@ -87,7 +87,7 @@ public class Main {
 }
 ```
 
-```java
+```powershell
 Output
 eating....
 Dog is barking
@@ -97,7 +97,7 @@ Dog is barking
 
 The Inheritance in which class inherits methods and properties from a class that is already deriving from another class is called multilevel inheritance.
 
-![Multilevel inheritance](./pics/multilevel%20inheritance.png)
+![Multilevel inheritance](https://firebasestorage.googleapis.com/v0/b/converteasly-a81f8.appspot.com/o/images%2Fc99e99s62-Multilevel-inheritance.jpg?alt=media&token=6bdcf305-311c-4523-8334-011562a80b0b)
 
 
 ### Example:
@@ -139,19 +139,17 @@ public class cat extends Dogs {
 
 ```
 
-```java
+```powershell
 Output
 eating....
 Meow...
 welcome to animal family
-
-
 ```
 ## Hierarchical Inheritance
 
 In Hierarchical inheritance, more than one sub-class inherits the property of a single base class. There is one base class and multiple derived classes.
 
-![ Hierarchical Inheritance](./pics/Hierchial%20inheritance.png)
+![ Hierarchical Inheritance](https://firebasestorage.googleapis.com/v0/b/converteasly-a81f8.appspot.com/o/images%2Fc99e99s62-hierarchial-inheritance.jpg?alt=media&token=03ed4d56-5f75-484e-8f30-736dd521cda5)
 
 
 ```java
@@ -191,7 +189,7 @@ public class Truck extends Vehicle {
 
 ```
 
-```java
+```powershell
 output
 Braking...
 Hello I am Car
@@ -206,7 +204,7 @@ Hello I am Truck
 
 It is a mix of two or more  types of inheritance.Since java doesn't support multiple inheritance with classes. It can be achieved through a combination of Multilevel Inheritance and Hierarchical Inheritance with classes, Hierarchical and Single Inheritance with classes.
 
-![Hybrid Inheritance ](./pics/hybrid%20inheritance.png)
+![Hybrid Inheritance ](https://firebasestorage.googleapis.com/v0/b/converteasly-a81f8.appspot.com/o/images%2Fc99e99s62-hybrid-inheritance.jpg?alt=media&token=edaa53fb-4169-4467-933c-99652e636d37)
 
 
 ```java
@@ -255,7 +253,7 @@ public class Main {
 }
 ```
 
-```java
+```powershell
 Output
 
 Braking...
@@ -264,7 +262,3 @@ TATA
 Speeding up...
 TATA
 ```
-
-
-
-
