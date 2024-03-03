@@ -1,7 +1,7 @@
 ---
 title: "understanding the concept of Encapsulation and Polymorphism in java "
-date: '27 february, 2024'
-sub_heading: "Let's dive into the concept of Encapsulation and Polymorphism more deeply with a lots of examples"
+date: 'February 27, 2024'
+sub_heading: "Encapsulation is a fundamental principle in object-oriented programming (OOP) where the internal state of an object is hidden from outside access."
 cover_image: ''
 category: 'general'
 ---
@@ -11,7 +11,7 @@ Let's dive into concept of Encapsulation and Polymorphism more deeply with a lot
 
 ## What is Encapsulation ?
 
-Encapsulation is a process of binding the class of memeber into a single unit.It protects the data of class to be accessed from outside the class.However it is accessed outside the class by using access modifier let's see how.
+Encapsulation is a process of binding the class of memeber into a single unit.It protects the data of class to be accessed from outside the class. However it is accessed outside the class by using access modifier let's see how.
 
 ### Example:
 
@@ -49,6 +49,7 @@ public class Person {
             System.out.println("Age cannot be negative.");
         }
     }
+
      @Override
     public String toString() {
         return "Person{" +
@@ -57,6 +58,7 @@ public class Person {
                 '}';
     }
 }
+
 // Main.java
 public class Main {
     public static void main(String[] args) {
@@ -98,6 +100,7 @@ class Animal {
         System.out.println("Animal makes a sound");
     }
 }
+
 // Subclass of Animal
 class Cow extends Animal {
     @Override
@@ -105,6 +108,7 @@ class Cow extends Animal {
         System.out.println("cow moo");
     }
 }
+
 // subclass of Animal
 class Cat extends Animal {
     @Override
@@ -112,6 +116,7 @@ class Cat extends Animal {
         System.out.println("cat meows");
     }
 }
+
 // Main.java
 public class Main {
     public static void main(String[] args) {
