@@ -1,8 +1,8 @@
 ---
-title: "understanding the concept of Encapsulation and Polymorphism in java "
-date: 'February 27, 2024'
+title: "Understanding the concept of Encapsulation and Polymorphism in java"
+date: 'April 12, 2024'
 sub_heading: "Encapsulation is a fundamental principle in object-oriented programming (OOP) where the internal state of an object is hidden from outside access."
-cover_image: ''
+cover_image: 'https://firebasestorage.googleapis.com/v0/b/converteasly-a81f8.appspot.com/o/images%2Fc99e99s61-concept-of-encapsulation-and-polymorphism.jpg?alt=media&token=da75a5f5-e342-4c16-95a4-027f5b17eda3'
 category: 'general'
 ---
 
@@ -85,7 +85,7 @@ The word "poly" means many and "morphs" means forms, So polymorphism means many 
 
 ## Types of polymorphism
 
-![Types of Polymorphism](./pics/Polymorphism.png)
+![Types of Polymorphism](https://firebasestorage.googleapis.com/v0/b/converteasly-a81f8.appspot.com/o/images%2Fc99e99s61-polymorphism.png?alt=media&token=a77569ce-cbe0-4000-94b6-fa343c47ae73)
 
 
 ## Runtime Polymorphism (Method Overriding)
